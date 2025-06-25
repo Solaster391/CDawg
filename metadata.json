@@ -2,7 +2,7 @@
   "name": "ChillDawg",
   "symbol": "CDawg",
   "description": "Smoke your stress away – ChillDawg’s here to stay",
-  "image": "https://raw.githubusercontent.com/Solaster391/CDawg/refs/heads/main/Chilldawg.png",
+  "image": "https://raw.githubusercontent.com/Solaster391/CDawg/main/Chilldawg.png",
   "seller_fee_basis_points": 200,
   "creators": [
     {
