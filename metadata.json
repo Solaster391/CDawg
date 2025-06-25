@@ -1,0 +1,13 @@
+{
+  "name": "ChillDawg",
+  "symbol": "CDawg",
+  "description": "Smoke your stress away – ChillDawg’s here to stay",
+  "image": "https://raw.githubusercontent.com/<USER>/<REPO>/main/chilldawg.png",
+  "seller_fee_basis_points": 200,
+  "creators": [
+    {
+      "address": "DEINE_SOLANA_WALLET_ADDRESS",
+      "share": 100
+    }
+  ]
+}
